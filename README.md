@@ -1,0 +1,2 @@
+# Simulator
+Xcode Simualtor
